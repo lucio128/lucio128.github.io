@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Jesus
+title:                 Hyeonsoo Kim
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,8 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "All That Is Gold Does Not Glitter.
-  Not All Those Who Wander Are Lost."
+  "Best Jekyll Theme by a Mile".
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
