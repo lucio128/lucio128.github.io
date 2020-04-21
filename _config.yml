@@ -28,7 +28,7 @@ description:           >
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
-tagline:               >
+tagline:                                            >
   "The Best".
   All That is Gold Does Not Glitter".
   Open `_config.yml` to edit this text.
