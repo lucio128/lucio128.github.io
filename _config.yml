@@ -49,13 +49,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url:               /hydejack/
-  - title:             Education
-    url:               /hyde/
-  - title:             Projects
-    url:               /practice/
-  - title:             About
     url:               /about/
+  - title:             Education
+    url:               /practice/
+  - title:             Projects
+    url:               /hyde/
+  - title:             About
+    url:               /hydejack/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
